@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **suzenkumarmohanty@gmail.com**
 
-- ⚡ Fun fact **iam funny**
+- ⚡ Fun fact **iam  very funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

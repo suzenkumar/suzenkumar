@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SUZEN KUMAR MOHANTY</h1>
 <h3 align="center">Iam Computer Science student, a developer who enjoys learning new skills and technologies. I have experience in frontend and Github.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fn0xgg04%2Fn0xgg04&psig=AOvVaw3DxVvBER_bsJlMeE6v6-Jn&ust=1751606399736000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD5vrz4n44DFQAAAAAdAAAAABBl" >
+<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fn0xgg04%2Fn0xgg04&psig=AOvVaw3DxVvBER_bsJlMeE6v6-Jn&ust=1751606399736000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD5vrz4n44DFQAAAAAdAAAAABBl](https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suzenkumar&label=Profile%20views&color=0e75b6&style=flat" alt="suzenkumar" /> </p>
 

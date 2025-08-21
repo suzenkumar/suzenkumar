@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **Frontend Course**
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/4tw58c4m](https://tinyurl.com/4tw58c4m)
 - 📝 I regularly write articles at [https://tinyurl.com/4tw58c4m](https://tinyurl.com/4tw58c4m)
-- 💬 Ask me about **HTML, CSS, GitHub, Git, IoT Projects**
+- 💬 Ask me about **HTML, CSS, GitHub, Git, IoT Projects,javacript,Bootstrap,vuejs,Tailwindcss,Api Integration**
 - 📫 Reach me at **suzenkumarmohanty@gmail.com**
 - 📄 Learn more about my experiences at [https://tinyurl.com/4tw58c4m](https://tinyurl.com/4tw58c4m)
 - ⚡ Fun fact: **I am very funny 😄**

@@ -20,7 +20,7 @@
 </p>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/n0xgg04/n0xgg04/main/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif" />
 
-- 🌱 I’m currently learning **Sigma Web Development Course**
+- 🌱 I’m currently learning **Frontend Course**
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/4tw58c4m](https://tinyurl.com/4tw58c4m)
 - 📝 I regularly write articles at [https://tinyurl.com/4tw58c4m](https://tinyurl.com/4tw58c4m)
 - 💬 Ask me about **HTML, CSS, GitHub, Git, IoT Projects**
